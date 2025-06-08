@@ -1,1 +1,2 @@
-<img src="https://readme-typing-svg.demolab.com/?lines=𓁹 𓁹;Is+Exciting... &center=true&size=15" width="100%"></img>
+<img src="https://readme-typing-svg.demolab.com?lines=%F0%93%81%B9%20%F0%93%81%B9;Is%2BExciting...&center=true&size=15" width="100%">
+
